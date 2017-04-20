@@ -1,7 +1,7 @@
 {
   "name": "project-react-1",
   "version": "0.1.0",
-  "homepage": "https://nsxz945.github.io/project-react-1/build",
+  "homepage": "https://nsxz945.github.io/todoList-local/build",
   "dependencies": {
     "bulma": "^0.4.0",
     "normalize.css": "^6.0.0",
